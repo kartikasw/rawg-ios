@@ -1,0 +1,6 @@
+framework module Pods_RawgApp {
+  umbrella header "Pods-RawgApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
